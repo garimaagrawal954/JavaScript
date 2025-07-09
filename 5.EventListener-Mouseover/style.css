@@ -1,0 +1,9 @@
+#box{
+    height: 250px;
+    width: 250px;
+    background-color: green;
+    margin: 100px auto;
+}
+h1{
+    text-align: center;
+}
